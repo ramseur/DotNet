@@ -1,0 +1,6 @@
+E:\project\test\DotNet\API\APITest\BusinessLogic\bin\Debug\BusinessLogic.dll
+E:\project\test\DotNet\API\APITest\BusinessLogic\bin\Debug\BusinessLogic.pdb
+E:\project\test\DotNet\API\APITest\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+E:\project\test\DotNet\API\APITest\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+E:\project\test\DotNet\API\APITest\BusinessLogic\obj\Debug\BusinessLogic.dll
+E:\project\test\DotNet\API\APITest\BusinessLogic\obj\Debug\BusinessLogic.pdb

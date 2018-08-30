@@ -1,0 +1,10 @@
+E:\project\test\DotNet\API\APIConsole\APIConsole\bin\Debug\APIConsole.exe.config
+E:\project\test\DotNet\API\APIConsole\APIConsole\bin\Debug\APIConsole.exe
+E:\project\test\DotNet\API\APIConsole\APIConsole\bin\Debug\APIConsole.pdb
+E:\project\test\DotNet\API\APIConsole\APIConsole\obj\Debug\APIConsole.csprojResolveAssemblyReference.cache
+E:\project\test\DotNet\API\APIConsole\APIConsole\obj\Debug\APIConsole.csproj.CoreCompileInputs.cache
+E:\project\test\DotNet\API\APIConsole\APIConsole\obj\Debug\APIConsole.exe
+E:\project\test\DotNet\API\APIConsole\APIConsole\obj\Debug\APIConsole.pdb
+E:\project\test\DotNet\API\APIConsole\APIConsole\bin\Debug\BusinessLogic.dll
+E:\project\test\DotNet\API\APIConsole\APIConsole\bin\Debug\BusinessLogic.pdb
+E:\project\test\DotNet\API\APIConsole\APIConsole\obj\Debug\APIConsole.csproj.CopyComplete

@@ -1,0 +1,11 @@
+E:\project\test\DotNet\API\APITest\WebAPI\bin\Debug\netcoreapp2.0\WebAPI.deps.json
+E:\project\test\DotNet\API\APITest\WebAPI\bin\Debug\netcoreapp2.0\WebAPI.runtimeconfig.json
+E:\project\test\DotNet\API\APITest\WebAPI\bin\Debug\netcoreapp2.0\WebAPI.runtimeconfig.dev.json
+E:\project\test\DotNet\API\APITest\WebAPI\bin\Debug\netcoreapp2.0\WebAPI.dll
+E:\project\test\DotNet\API\APITest\WebAPI\bin\Debug\netcoreapp2.0\WebAPI.pdb
+E:\project\test\DotNet\API\APITest\WebAPI\obj\Debug\netcoreapp2.0\WebAPI.csprojResolveAssemblyReference.cache
+E:\project\test\DotNet\API\APITest\WebAPI\obj\Debug\netcoreapp2.0\WebAPI.csproj.CoreCompileInputs.cache
+E:\project\test\DotNet\API\APITest\WebAPI\obj\Debug\netcoreapp2.0\WebAPI.AssemblyInfoInputs.cache
+E:\project\test\DotNet\API\APITest\WebAPI\obj\Debug\netcoreapp2.0\WebAPI.AssemblyInfo.cs
+E:\project\test\DotNet\API\APITest\WebAPI\obj\Debug\netcoreapp2.0\WebAPI.dll
+E:\project\test\DotNet\API\APITest\WebAPI\obj\Debug\netcoreapp2.0\WebAPI.pdb
